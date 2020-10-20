@@ -1,2 +1,3 @@
-# aagen
-An ANSI/ASCII art image converter
+# aacon
+An *ANSI/ASCII art* image *converter*
+=======
